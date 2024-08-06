@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GenetousSDKCore</id>
+    <version>1.0.0</version>
+    <authors>GenetousSDKCore</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\repos\GenetousSDKCore\bin\Release\net8.0\GenetousSDKCore.dll" target="lib\net8.0\GenetousSDKCore.dll" />
+  </files>
+</package>

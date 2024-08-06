@@ -1,0 +1,12 @@
+D:\repos\GenetousSDKCore\bin\Release\net8.0\GenetousSDKCore.deps.json
+D:\repos\GenetousSDKCore\bin\Release\net8.0\GenetousSDKCore.dll
+D:\repos\GenetousSDKCore\bin\Release\net8.0\GenetousSDKCore.pdb
+D:\repos\GenetousSDKCore\obj\Release\net8.0\GenetousSDKCore.csproj.AssemblyReference.cache
+D:\repos\GenetousSDKCore\obj\Release\net8.0\GenetousSDKCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\GenetousSDKCore\obj\Release\net8.0\GenetousSDKCore.AssemblyInfoInputs.cache
+D:\repos\GenetousSDKCore\obj\Release\net8.0\GenetousSDKCore.AssemblyInfo.cs
+D:\repos\GenetousSDKCore\obj\Release\net8.0\GenetousSDKCore.csproj.CoreCompileInputs.cache
+D:\repos\GenetousSDKCore\obj\Release\net8.0\GenetousSDKCore.dll
+D:\repos\GenetousSDKCore\obj\Release\net8.0\refint\GenetousSDKCore.dll
+D:\repos\GenetousSDKCore\obj\Release\net8.0\GenetousSDKCore.pdb
+D:\repos\GenetousSDKCore\obj\Release\net8.0\ref\GenetousSDKCore.dll
