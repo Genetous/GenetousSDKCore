@@ -1,8 +1,8 @@
-## Genetous .Net Framework SDK ##
+## Genetous .Net Core SDK ##
 
 ### Kurulum: ###
 
-Paketi https://www.nuget.org/packages/GenetousSDK adresinden size uygun bir seçenek ile kurun.
+Paketi https://www.nuget.org/packages/GenetousSDKCore adresinden size uygun bir seçenek ile kurun.
 
 ### Değişkenleri Belirleme: ###
 
